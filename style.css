@@ -1,0 +1,227 @@
+
+                                                            
+.nav-item1 {
+
+
+        padding-left: 300px;
+
+
+}
+
+
+
+.nav-item2 {
+
+
+            margin-right: 50px;
+            
+            padding-left: 400px;
+
+}
+
+
+
+.navbar-nav > li{
+
+padding-right:1px;
+
+margin-left: 100px;
+
+}
+
+.navbar-brand {
+
+  margin-left: -20px;
+  padding-left: 25px;
+  padding-right: 75px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+
+  background-color: salmon;
+  color: snow;
+
+  font-family: "chalkduster", fantasy, serif;
+  font-size: 45px;
+
+        border-top-left-radius: 30px;
+        border-bottom-left-radius: 30px;
+        border-bottom-right-radius: 30px;
+        border-top-right-radius: 30px;
+
+
+
+}
+
+.navbar-nav, .nav-item, .nav-link {
+
+        color: snow;
+        background-color: slategray;
+
+        border-top-left-radius: 30px;
+        border-bottom-left-radius: 30px;
+        border-bottom-right-radius: 30px;
+        border-top-right-radius: 30px;
+        
+        
+
+}
+
+
+
+  body {
+
+        background-image: url(images/skyline.jpg)   ;
+
+  }
+
+
+     /*.col-sm{
+
+
+            
+            
+           
+            
+           
+           
+            padding-right: 50px;
+            margin-top: 100px;
+            margin-left: -150px;
+
+
+
+       } 
+
+
+
+       .col-sm1{
+
+
+                float: right;
+
+
+       }
+
+
+
+
+        .heading {
+
+                padding-left: 700px;
+
+        }  */
+
+
+        .col-sm{
+
+            margin-top: 100px;
+            
+            padding-left: -100px;
+        }
+
+        .about {
+
+            color: snow;
+                background-color: slategrey;
+                padding: 10px;
+
+                border-top-left-radius: 30px;
+        border-bottom-left-radius: 30px;
+        border-bottom-right-radius: 30px;
+        border-top-right-radius: 30px;
+
+        }
+
+
+        .heading{
+
+            color:snow;
+            background-color: salmon;
+            padding: 15px;
+
+            border-top-left-radius: 30px;
+        border-bottom-left-radius: 30px;
+        border-bottom-right-radius: 30px;
+        border-top-right-radius: 30px;
+        }
+        
+
+
+
+
+        .card1{
+
+                float:center;
+                margin-left: 750px;
+                text-align: center;
+                margin-top: 125px;
+                
+                
+                
+                
+
+
+        }
+
+
+
+
+        .card {
+
+                    
+                text-align: center;
+            
+            
+            margin-top: 50px;
+
+                    width: 25px;
+                    
+
+                
+
+              
+                  
+
+        }
+
+
+
+            .trophy{
+
+                        color: snow;
+                        background-color: slategray;
+                        text-align: center;
+                        margin-left: 755px;
+                        margin-right: 755px;
+                        margin-top: 100px;
+                        font-size: 34px;
+                        border-top-left-radius: 30px;
+        border-bottom-left-radius: 30px;
+        border-bottom-right-radius: 30px;
+        border-top-right-radius: 30px;
+                        
+
+
+            }
+
+
+
+                .card-text ,.card-title{
+
+                            color: snow;
+
+
+                }
+
+
+
+
+
+                .picDesc {
+
+
+
+                                                color: aquamarine;
+                                                background-color: slategray;
+
+                }
