@@ -223,5 +223,9 @@ margin-left: 100px;
 
                                                 color: aquamarine;
                                                 background-color: slategray;
+                                                border-top-left-radius: 5px;
+                                                border-bottom-left-radius: 30px;
+                                                border-bottom-right-radius: 30px;
+                                                border-top-right-radius: 5px;
 
                 }
